@@ -1,0 +1,9 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRycKixF49vZIruiNq_EfvAi-aujpuoVc2hMQ&usqp=CAU");
+  }
+
+  .card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
